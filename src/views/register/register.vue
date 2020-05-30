@@ -4,7 +4,9 @@
       <span class="demonstration">{{ fit }}</span>
       <el-image style="width: 100px; height: 100px" :src="url" :fit="fit"></el-image>
     </div>
-    <div style="width:100px;height:100px; background-color:gray; margin: 0 auto;"></div>
+    <div style="width:100px;height:100px; background-color:gray; margin: 0 auto;">
+      
+    </div>
   </div>
 </template>
 
