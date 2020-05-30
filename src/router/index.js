@@ -20,7 +20,7 @@ export default new Router({
       component: HelloWorld
     },
     {
-      path: '/register',
+      path: '/r',
       name: 'register',
       component: register
     }
